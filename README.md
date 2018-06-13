@@ -8,4 +8,4 @@ Create a for loop that will iterate through the length of the loop starting with
 Create a function that iterates through an array and returns a second array that reverses the order from the first array.
 
 ## Solution
-<!-- Embedded whiteboard image -->
+![](assets/reversearray.jpg)

@@ -37,6 +37,8 @@ module.exports = class LinkedLists {
       return  null;
       endNode = endNode.next;
     }
+
+    while (!endNode.next) {
     if (endNode.next) {
       currentNode = currentNode.next;
       endNode = endNode.next;

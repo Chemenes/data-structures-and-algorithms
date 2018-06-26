@@ -4,7 +4,7 @@ class Queue {
   constructor () {
     this.arr = ['2','3','4','5'];
     this.arr2 = ['1'];
-    this arr3 = ['1','2']
+    this arr3 = ['1','2', '3','4','5']
   }
 
   enqueue(value) {

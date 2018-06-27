@@ -1,5 +1,5 @@
 ## Challenge
-Implement a Queue using two Stacks.
+First-in, First out Animal Shelter.
 
 
 ## Solution

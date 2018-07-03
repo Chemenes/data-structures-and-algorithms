@@ -1,7 +1,6 @@
 ## Challenge
-First-in, First out Animal Shelter.
+Conduct “FizzBuzz” on a tree while traversing through it. Change the values of each of the nodes dependent on the current node’s value
 
 
 ## Solution
 
-![]https://photos.app.goo.gl/PgVxp3b7DT2dXk1X6

@@ -9,8 +9,9 @@ let mergeLists = (l1, l2) => {
   let newNode = l2.next;
 
   while(li2.head != null) {
-    li2.next = li2.head.next;
-    li.head.next = li2.next
+    currentNode.next = l2.head.next;
+    l1.head.next = l2.head
+    currentNode.next.next = newNode;
   }
-  return l1;
+  return l1.head;
 }

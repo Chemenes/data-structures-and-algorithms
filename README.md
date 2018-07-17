@@ -1,5 +1,6 @@
 ## Challenge
-Write a function called mergeLists which takes two linked lists as arguments. Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the head of the single list. Try and keep additional space down to O(1). You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges.
+Write a function that accepts a lengthy string parameter.
+Without utilizing any of the built-in library methods available to your language, return the first word to occur more than once in that provided string.
 
 ## Solution
-![]https://photos.app.goo.gl/e3fgMgYkkK8xmYVm6
+![]https://photos.app.goo.gl/sREhAUYfQc3s3vma9

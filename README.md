@@ -1,5 +1,6 @@
 ## Challenge
-Write a function based on the specifications above, which takes in a graph, and an array of city names. Without utilizing any of the built-in methods available to your language, return whether the full trip is possible with direct flights, and how much it would cost.
+Create a function that brings an an adjacency matrix and determines whether or not there are any islands. Without utilizing any of the built-in methods available to your language, return the number of islands present in the graph data structure.
+
 
 ## Solution
-![]https://photos.app.goo.gl/aNJ29Ps5SsgFB8hPA
+![]https://docs.google.com/presentation/d/1EdDvDgotS1oaNcxVQfRcKHT3WKuACUEes1MySwEcWvs/edit?usp=sharing
